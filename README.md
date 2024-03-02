@@ -15,9 +15,9 @@
 
 - :seedling: Завершил курсы по веб-разработке Яндекс Практикум и на Stepik!
 
-- :zap: Есть свой <a href="https://veracept.pro" target="_blank">сайтм</a>
+- :zap: Есть свой <a href="https://veracept.pro" target="_blank">сайт</a>
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/veracept123) 
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Veracept-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/veracept123) 
 
 ---
 
