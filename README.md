@@ -8,14 +8,14 @@
 Я начинающий веб разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мне 16 лет, я учу програмированние уже 4 не полных года, но больше всего меня зацепила веб разработка! Поэтому уже 1.5 года усердно изучаю ее, в моих репозиториях, есть пару проектов
 
 <p align="center">
- <img width="600" src="[assets/github-snake.svg](https://github.com/FilimonovAlexey/FilimonovAlexey/raw/main/assets/github-snake.svg)" alt="snake"/>
+ <img width="600" src="https://github.com/FilimonovAlexey/FilimonovAlexey/raw/main/assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Участвовал в бассейне Школы 21 от Сбера.
+- :telescope: Являюсь не плохим <a href="https://imgur.com/a/Oyq8elO" target="_blank">Дизайнером</a>.
 
-- :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
+- :seedling: Завершил курсы по веб-разработке Яндекс Практикум и на Stepik!
 
-- :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
+- :zap: Есть свой <a href="https://veracept.pro" target="_blank">сайтм</a>
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/veracept123) 
 
