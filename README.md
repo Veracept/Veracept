@@ -11,7 +11,7 @@
  <img width="600" src="https://github.com/FilimonovAlexey/FilimonovAlexey/raw/main/assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Являюсь не плохим <a href="https://imgur.com/a/Oyq8elO" target="_blank">Дизайнером</a>.
+- :telescope: Являюсь неплохим <a href="https://imgur.com/a/Oyq8elO" target="_blank">Дизайнером</a>.
 
 - :zap: Есть свой <a href="https://veracept.pro" target="_blank">сайт</a>
 
