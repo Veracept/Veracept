@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб-разработчик. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. не 16 лет, и я учу программирование уже почти 4 года, но больше всего меня зацепила веб-разработка! Поэтому уже 1.5 года я усердно её изучаю. В моих репозиториях есть пару проектов.
+Я начинающий веб-разработчик. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мне 16 лет, и я учу программирование уже почти 4 года, но больше всего меня зацепила веб-разработка! Поэтому уже 1.5 года я усердно её изучаю. В моих репозиториях есть пару проектов.
 
 <p align="center">
  <img width="600" src="https://github.com/FilimonovAlexey/FilimonovAlexey/raw/main/assets/github-snake.svg" alt="snake"/>
